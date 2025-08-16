@@ -1,0 +1,3 @@
+MNIST veri seti ile rakam resimlerinin sınıflandırması işlemleri bu projemizde hayata geçirilecek 
+bu veri set 28*28 pixel bouytunda 0 dan 9 a kadar olan rakamların resimleri bulunmaktadır.
+
